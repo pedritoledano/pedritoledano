@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Data Science projects.
 - 📫 How to reach me by mailin me to pedrosaturiotoledano@gmail.com    
 - 😄 Pronouns: Pedrito
-- ⚡ Fun fact: I come from another field and I am not aware of how many hours I have left in front of the computer.
 
 <!---
 pedritoledano/pedritoledano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
